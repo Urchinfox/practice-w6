@@ -1,0 +1,27 @@
+.border-center::before{
+    content: "";
+    width: 35%;
+    border-bottom: 1px solid #DEE2E6;
+    position: absolute;
+    top: 50%;
+    right: 0;
+}
+
+.border-center::after{
+    content: "";
+    width: 35%;
+    border-bottom: 1px solid #DEE2E6;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+
+label{
+    outline: none;
+}
+
+input{
+    outline: none;
+}
+
+

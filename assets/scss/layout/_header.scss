@@ -1,0 +1,11 @@
+
+.border-custom{
+    border-bottom: 1px solid #ADB5BD;
+}
+@media (max-width:992px){
+    .border-custom{
+        border: none;
+    }
+}
+
+

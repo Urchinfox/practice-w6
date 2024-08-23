@@ -1,0 +1,56 @@
+
+// .carousel {
+//     width: 100%;
+//     border-radius:3rem;
+
+// }
+
+// .mask {
+//     overflow: hidden;
+//     width: 100%;
+//     border-radius:3rem;
+// }
+
+
+
+// .carousel-hacia-derecha {
+//     display: flex;
+
+//     animation: carousel 5s infinite linear;
+//     animation-direction: reverse;
+
+// }
+
+
+// .carousel-hacia-izquierda {
+//     display: flex;
+//     animation: carousel 10s infinite linear;
+// }
+
+
+// @keyframes carousel {
+//     0% {
+//         transform: translateX(0);
+
+//     }
+//     100% {
+//         transform: translateX(-(40% * 5));
+        
+//     }
+// }
+
+// .test-pic {
+//     flex-basis: 25%;
+//     flex-shrink: 0;
+// }
+
+// .test-pic img{
+//     width: 100%;
+//     height: auto;
+// }
+
+.bluebox{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+}
